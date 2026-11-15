@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1060" viewBox="0 0 1500 1060" font-family="DejaVu Sans, sans-serif">
+<rect width="1500" height="1060" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1500" height="100" fill="#0D47A1"/>
+<text x="40" y="45" font-size="34" font-weight="bold" fill="#FFFFFF">Le Semeru (île de Java, Indonésie)</text>
+<text x="40" y="80" font-size="24" fill="#BBDEFB">Les zones menacées par les coulées de lave</text>
+<rect x="40" y="120" width="1010" height="900" fill="#FDF8EE" stroke="#333333" stroke-width="3"/>
+<clipPath id="map"><rect x="40" y="120" width="1010" height="900"/></clipPath>
+<g clip-path="url(#map)">
+<g fill="#EAE3D2" stroke="#D8CFB8" stroke-width="2">
+<ellipse cx="180" cy="880" rx="180" ry="70"/>
+<ellipse cx="950" cy="300" rx="200" ry="80"/>
+<ellipse cx="880" cy="960" rx="220" ry="70"/>
+</g>
+<g fill="#FFF3A6" stroke="#E8D66B" stroke-width="2">
+<ellipse cx="700" cy="480" rx="150" ry="70" transform="rotate(-20 700 480)"/>
+<ellipse cx="860" cy="560" rx="140" ry="60" transform="rotate(-15 860 560)"/>
+<ellipse cx="960" cy="700" rx="120" ry="60" transform="rotate(10 960 700)"/>
+<ellipse cx="250" cy="760" rx="160" ry="70" transform="rotate(15 250 760)"/>
+<ellipse cx="520" cy="880" rx="170" ry="70" transform="rotate(-10 520 880)"/>
+<ellipse cx="820" cy="930" rx="150" ry="60" transform="rotate(0 820 930)"/>
+<ellipse cx="180" cy="560" rx="90" ry="50" transform="rotate(0 180 560)"/>
+</g>
+<path d="M 300 330 C 380 340, 470 400, 520 470 C 570 540, 600 620, 680 680 C 760 740, 860 780, 960 840 C 1010 870, 1040 900, 1050 940 L 1050 1010 L 760 1010 C 700 940, 640 880, 560 830 C 480 780, 420 720, 380 650 C 340 580, 300 500, 270 430 C 255 390, 270 350, 300 330 Z" fill="#F5A623" fill-opacity="0.85" stroke="#D97E00" stroke-width="2.5"/>
+<path d="M 250 430 C 230 480, 210 540, 230 600 C 245 645, 280 680, 320 700 L 350 640 C 320 600, 300 550, 295 500 C 292 465, 275 440, 250 430 Z" fill="#F5A623" fill-opacity="0.85" stroke="#D97E00" stroke-width="2.5"/>
+<path d="M 300 250 C 370 255, 430 300, 445 360 C 458 415, 430 470, 380 495 C 330 520, 265 515, 225 475 C 185 435, 175 370, 200 320 C 220 280, 255 248, 300 250 Z" fill="#E53935" fill-opacity="0.9" stroke="#B71C1C" stroke-width="2.5"/>
+<g>
+<path d="M 300 255 L 205 470 Q 300 445 395 470 Z" fill="#8D6E63" stroke="#5D4037" stroke-width="3"/>
+<path d="M 300 255 L 262 350 Q 300 338 338 350 Z" fill="#A1887F"/>
+<ellipse cx="300" cy="256" rx="14" ry="6" fill="#B71C1C"/>
+</g>
+<path d="M 305 268 C 330 330, 360 400, 440 470 C 520 540, 600 590, 680 655 C 760 720, 850 770, 930 820 C 980 850, 1020 880, 1050 910" fill="none" stroke="#1E88E5" stroke-width="7" stroke-linecap="round"/>
+<path d="M 250 480 C 300 520, 360 560, 430 585 C 480 602, 520 615, 560 640" fill="none" stroke="#1E88E5" stroke-width="4.5" stroke-linecap="round"/>
+<text x="700" y="745" font-size="24" font-style="italic" fill="#0D47A1" transform="rotate(24 700 745)">La Besuk Kobokan</text>
+<line x1="370" y1="420" x2="470" y2="510" stroke="#B71C1C" stroke-width="6"/>
+<polygon points="470,510 451,505 463,491" fill="#B71C1C"/>
+<line x1="600" y1="590" x2="700" y2="665" stroke="#B71C1C" stroke-width="6"/>
+<polygon points="700,665 680,662 692,647" fill="#B71C1C"/>
+<line x1="830" y1="760" x2="930" y2="825" stroke="#B71C1C" stroke-width="6"/>
+<polygon points="930,825 910,823 921,807" fill="#B71C1C"/>
+<text x="415" y="395" font-size="22" font-weight="bold" fill="#B71C1C" transform="rotate(40 415 395)">Coulées de lave</text>
+<rect x="629" y="544" width="22" height="22" fill="#111111" stroke="#FFFFFF" stroke-width="3"/>
+<text x="662" y="540" font-size="27" font-weight="bold" fill="#111111" stroke="#FFFFFF" stroke-width="5" paint-order="stroke" text-anchor="start">Oro-Oro Ombo</text>
+<rect x="534" y="644" width="22" height="22" fill="#111111" stroke="#FFFFFF" stroke-width="3"/>
+<text x="545" y="626" font-size="27" font-weight="bold" fill="#111111" stroke="#FFFFFF" stroke-width="5" paint-order="stroke" text-anchor="middle">Supiturang</text>
+<rect x="904" y="794" width="22" height="22" fill="#111111" stroke="#FFFFFF" stroke-width="3"/>
+<text x="915" y="778" font-size="27" font-weight="bold" fill="#111111" stroke="#FFFFFF" stroke-width="5" paint-order="stroke" text-anchor="middle">Penanggal</text>
+<line x1="985" y1="240" x2="985" y2="140" stroke="#111111" stroke-width="4"/>
+<polygon points="985,125 972,155 998,155" fill="#111111"/>
+<text x="977" y="270" font-size="30" font-weight="bold" fill="#111111">N</text>
+<rect x="80" y="975" width="107" height="14" fill="#111111" stroke="#111111" stroke-width="1.5"/>
+<rect x="187" y="975" width="107" height="14" fill="#FFFFFF" stroke="#111111" stroke-width="1.5"/>
+<rect x="294" y="975" width="107" height="14" fill="#111111" stroke="#111111" stroke-width="1.5"/>
+<rect x="401" y="975" width="107" height="14" fill="#FFFFFF" stroke="#111111" stroke-width="1.5"/>
+<text x="76" y="967" font-size="19" fill="#111111">0</text>
+<text x="175" y="967" font-size="19" fill="#111111">2</text>
+<text x="282" y="967" font-size="19" fill="#111111">4</text>
+<text x="389" y="967" font-size="19" fill="#111111">6</text>
+<text x="496" y="967" font-size="19" fill="#111111">8 km</text>
+</g>
+<rect x="1075" y="120" width="385" height="900" fill="#FFFFFF" stroke="#333333" stroke-width="3"/>
+<rect x="1075" y="120" width="385" height="52" fill="#0D47A1"/>
+<text x="1093" y="155" font-size="26" font-weight="bold" fill="#FFFFFF">Légende</text>
+<path d="M 1113 194 L 1095 222 L 1131 222 Z" fill="#8D6E63" stroke="#5D4037" stroke-width="2"/>
+<text x="1147" y="216" font-size="21" fill="#111111">Le volcan Semeru (3 676 m)</text>
+<rect x="1095" y="240" width="36" height="24" fill="#E53935" stroke="#B71C1C" stroke-width="1.5"/>
+<text x="1147" y="260" font-size="21" fill="#111111">Zone de danger très élevée :</text>
+<text x="1147" y="296" font-size="21" fill="#333333">nuées ardentes, projections de</text>
+<text x="1147" y="326" font-size="21" fill="#333333">rochers et gaz autour du sommet</text>
+<rect x="1095" y="336" width="36" height="24" fill="#F5A623" stroke="#D97E00" stroke-width="1.5"/>
+<text x="1147" y="356" font-size="21" fill="#111111">Zone menacée par les coulées</text>
+<text x="1147" y="392" font-size="21" fill="#333333">de lave et les lahars</text>
+<text x="1147" y="422" font-size="21" fill="#333333">(coulées de boue) dans les vallées</text>
+<rect x="1095" y="432" width="36" height="24" fill="#FFF3A6" stroke="#E8D66B" stroke-width="1.5"/>
+<text x="1147" y="452" font-size="21" fill="#111111">Terres cultivées et zones habitées</text>
+<line x1="1095" y1="492" x2="1131" y2="492" stroke="#1E88E5" stroke-width="6" stroke-linecap="round"/>
+<text x="1147" y="496" font-size="21" fill="#111111">La rivière Besuk Kobokan</text>
+<rect x="1103" y="523" width="20" height="20" fill="#111111" stroke="#FFFFFF" stroke-width="2.5"/>
+<rect x="1103" y="523" width="20" height="20" fill="none" stroke="#111111" stroke-width="1"/>
+<text x="1147" y="540" font-size="21" fill="#111111">Village (commune)</text>
+<line x1="1095" y1="580" x2="1123" y2="580" stroke="#B71C1C" stroke-width="5"/>
+<polygon points="1133,580 1119,572 1119,588" fill="#B71C1C"/>
+<text x="1147" y="584" font-size="21" fill="#111111">Direction des coulées de lave</text>
+<rect x="1093" y="642" width="349" height="270" fill="#F5F9FF" stroke="#333333" stroke-width="2"/>
+<text x="1109" y="672" font-size="20" font-weight="bold" fill="#0D47A1">Où se trouve le Semeru ?</text>
+<path d="M 1115 792 C 1165 752, 1225 737, 1285 747 C 1345 757, 1385 782, 1405 812 C 1375 837, 1315 847, 1255 837 C 1195 827, 1145 817, 1115 792 Z" fill="#C8E6C9" stroke="#2E7D32" stroke-width="2"/>
+<circle cx="1360" cy="792" r="7" fill="#E53935" stroke="#B71C1C" stroke-width="2"/>
+<text x="1325" y="777" font-size="17" font-weight="bold" fill="#B71C1C">Semeru</text>
+<text x="1195" y="807" font-size="17" font-style="italic" fill="#2E7D32">Île de Java</text>
+<text x="1115" y="887" font-size="17" fill="#555555">Indonésie, Asie du Sud-Est</text>
+<text x="1093" y="980" font-size="15" fill="#777777">D'après la carte des risques volcaniques</text>
+<text x="1093" y="1000" font-size="15" fill="#777777">du Semeru (Badan Geologi, Indonésie).</text>
+</svg>
